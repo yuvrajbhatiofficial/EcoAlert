@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #79FF79;
+}
+.getstarted{
+position: relative;
+top: 200px;
+left:87px;
+}
+input{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 70px;
+    padding-left: 70px;
+    font-size: medium;
+    font-family: sans-serif;
+    color:#038FBF;
+    border-color:#038FBF ;
+}
+.image{
+    padding-top: 200px;
+    padding-left: 130px;
+}
+
+
+
