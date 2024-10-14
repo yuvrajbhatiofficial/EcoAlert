@@ -1,7 +1,8 @@
 # EcoAlert
 this an mobile application project for hackathon 2024 (Frost hacks) by MLH 
-
-![small](https://github.com/user-attachments/assets/9ae7b862-76cb-4965-9426-5faaf6333e4e)
-![small-3](https://github.com/user-attachments/assets/b76abd66-43e0-4049-8653-18a9a722590f)
-![small-4](https://github.com/user-attachments/assets/d5619b12-b11b-4bae-960a-a1ee7ba21d7a)
-![small-2](https://github.com/user-attachments/assets/970ea345-45f7-4754-95c6-5b7d25a986b8)
+![gallery](https://github.com/user-attachments/assets/89c2abe6-ef3d-4b04-8b04-d2829c4c15de)
+![gallery-6](https://github.com/user-attachments/assets/ea0d1e33-bd08-42d6-9b10-f2c66506083d)
+![gallery-5](https://github.com/user-attachments/assets/543685af-de64-4ffc-b2e1-cdf7195a401e)
+![gallery-4](https://github.com/user-attachments/assets/bc727562-5774-4e5f-b4fe-14fe89dad5df)
+![gallery-3](https://github.com/user-attachments/assets/0e6f6c42-32ca-49a0-8f7a-8e2d6cae3faf)
+![gallery-2](https://github.com/user-attachments/assets/e59b19f3-4fd8-40c1-a452-b58961c971a0)
